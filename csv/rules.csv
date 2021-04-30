@@ -1,0 +1,30 @@
+﻿"id=""cn-accept-cookie"" data-cookie-set=""accept"" class=""cn-set-cookie cn-button bootstrap"
+"id=""catapultCookie"" tabindex=""0"" onclick=""catapultAcceptCookies()"
+"role=""button"" tabindex=""0"" data-cli_action=""accept"" id=""cookie_action_close_header"" class=""medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button"""
+"id=""onetrust-accept-btn-handler"" tabindex=""0"""
+"class=""qc-cmp-button"" onclick='window.__cmpui(""setAndSaveAllConsent"",!0)"
+"class=""eugdpr-consent-button"" data-js=""gdpr-consent"
+
+"id=""_evidon-accept-button"" class=""evidon-banner-acceptbutton"""
+"type=""button"" id=""bbcprivacy-continue-button"" class=""continue-button"""
+"type=""button"" id=""bbccookies-continue-button"" class=""continue-button banner-button"""
+"id=""banner-cookie--button"""
+"id=""_ghostery-accept-button"""
+"id=""onetrust-accept-btn-handler"" tabindex=""0"""
+"class=""mol-ads-cmp--btn-primary"" type=""button"""
+"id=""gdpr-banner-accept"" aria-label=""Accept privacy terms and settings"" data-marko-key=""@gdpr-banner-accept "
+"id=""onetrust-accept-btn-handler"" tabindex=""0"""
+"class=""wt-cck-btn-add"" style=""color:#fff"" href=""javascript:void(0)"
+"data-tracking-opt-in-accept=""true"" class=""_2o0B8MF50eAK1jv60jldUQ _2c5ljMskepxxinntbmMTHJ"""
+"class=""call"" tabindex=""0"" role=""button"">I Agree, Continue to Site</a>"
+cookieBarButton cookieBarConsentButton
+a8c-cookie-banner-ok-button
+"class=""optanon-allow-all accept-cookies-button"" title=""Weiter zur Webseite""
+            aria-label=""Weiter zur Webseite"" onclick=""Optanon.TriggerGoogleAnalyticsEvent('OneTrust Cookie Consent', 'Banner Accept Cookies')"
+"class=""css-1p91x5t"" type=""button"" data-testid=""GDPR-accept"""
+gdprCookieBanner_buttonWrapper gdprCookieBanner_buttonWrapper-custom
+onetrust-accept-btn-handler
+cmpbntyestxt
+"data-a-target=""tw-core-button-label-text"" class=""tw-flex-grow-0"""
+"class=""cookieBarButton cookieBarConsentButton"""
+a8c-cookie-banner-ok-button
